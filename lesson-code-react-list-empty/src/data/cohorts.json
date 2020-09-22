@@ -1,0 +1,18 @@
+ [
+  {
+    "id": "try",
+    "date":"Mon Oct 21 2019 00:00:00 GMT+0200" ,
+    "students": [
+      { "id": "abc", "name": "Mark", "age": 25 },
+      { "id": "def", "name": "Laura", "age": 25 }
+    ]
+  },
+  {
+    "id": "cst",
+    "date": "Mon Jun 02 2020 00:00:00 GMT+0200",
+    "students": [
+      { "id": "ghi", "name": "António", "age": 26 },
+      { "id": "cde", "name": "Ana", "age": 27 }
+    ]
+  }
+]
